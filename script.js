@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const correctPassword = 'drxrendi123';
   
     // Prompt untuk meminta kata sandi dari pengguna
-    const userPassword = prompt('Masukkan kata sandi untuk mengakses website:');
+    const userPassword = prompt('Masukkan kata sandi untuk mengakses website: WAJIB REFRESH DAN MASUKKAN ULANG SANDI');
   
     // Cek apakah kata sandi benar
     if (userPassword === correctPassword) {
